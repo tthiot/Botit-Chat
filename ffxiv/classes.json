@@ -1,0 +1,83 @@
+{
+    "classes":{
+        "heal":[
+            {
+                "name":"Astrologian",
+                "picture":"https://i.pinimg.com/736x/93/39/ad/9339ada3427531456bf02f6d729bdba8.jpg"
+            },
+            {
+                "name":"Scholar",
+                "picture":"https://d3fa68hw0m2vcc.cloudfront.net/980/231785232.jpeg"
+            },
+            {
+                "name":"White Mage",
+                "picture":"https://i.pinimg.com/564x/2b/9e/3a/2b9e3a1feac3d7909b1a09fd7a6e437a.jpg"
+            }
+        ],
+        "tank":[
+            {
+                "name":"Dark Knight",
+                "picture":"https://d3fa68hw0m2vcc.cloudfront.net/4d5/231785226.jpeg"
+            },
+            {
+                "name":"Gunbreaker",
+                "picture":"https://img.finalfantasyxiv.com/t/a8e125b33aac63733a069388f371e10cc5baeba1_9.jpg?1576631760"
+            },
+            {
+                "name":"Paladin",
+                "picture":"https://d3fa68hw0m2vcc.cloudfront.net/0d3/231610520.jpeg"
+            },
+            {
+                "name":"Warrior",
+                "picture":"https://d3fa68hw0m2vcc.cloudfront.net/bb1/231594019.jpeg"
+            }
+
+        ],
+        "dps":[
+            {
+                "name":"Dragoon",
+                "picture":"https://d3fa68hw0m2vcc.cloudfront.net/53f/231610526.jpeg"
+            },
+            {
+                "name":"Monk",
+                "picture":"https://d3fa68hw0m2vcc.cloudfront.net/107/231594040.jpeg"
+            },
+            {
+                "name":"Ninja",
+                "picture":"https://d3fa68hw0m2vcc.cloudfront.net/5ac/231610534.jpeg"
+            },
+            {
+                "name":"Samurai",
+                "picture":"https://d3fa68hw0m2vcc.cloudfront.net/c39/231698977.jpeg"
+            },
+            {
+                "name":"Bard",
+                "picture":"https://i.pinimg.com/736x/38/de/85/38de85980f16de2c493534c1f00ce3eb.jpg"
+            },
+            {
+                "name":"Dancer",
+                "picture":"https://cdn-prod.scalefast.com/public/assets/img/resized/squareenix-store-v3/1fc445b8e5693360d298171b63d5cba4_640_640_Q10.jpg"
+            },
+            {
+                "name":"Machinist",
+                "picture":"https://d3fa68hw0m2vcc.cloudfront.net/6f9/231594054.jpeg"
+            },
+            {
+                "name":"Black Mage",
+                "picture":"https://d3fa68hw0m2vcc.cloudfront.net/436/231594061.jpeg"
+            },
+            {
+                "name":"Summoner",
+                "picture":"https://d3fa68hw0m2vcc.cloudfront.net/5ef/231610548.jpeg"
+            },
+            {
+                "name":"Red Mage",
+                "picture":"https://cdn-prod.scalefast.com/public/assets/user/1614900/image/1d5005fc60d14a6870abb9d1ba33c8c2.jpg"
+            }
+        ],
+        "Blue Mage":[{
+            "name":"Blue Mage",
+            "picture":"https://steamuserimages-a.akamaihd.net/ugc/945095565208555226/F64AE807633AEE2017EA4C2864E8AA26670BEBC5/"
+        }]
+    }
+}
