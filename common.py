@@ -1,4 +1,9 @@
 import discord
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
+MainPath = os.getenv('MAIN_PATH')
 
 listCommand = ['$rollclass','$rollteam']
 

@@ -2,6 +2,7 @@ import discord
 import random
 from random import randint
 import json
+import common
 
 def randJsonArray(array):
   return array[randint(0,len(array)-1)]
@@ -12,7 +13,7 @@ async def rollclass(message):
   synDps = ["dps","dips","deeps"]
   synHeal = ["heal","heel","eel","il","hil","eal"]
 
-  with open('ffxiv/classes.json') as json_file:
+  with open(common.MainPath+'ffxiv/classes.json') as json_file:
     data = json.load(json_file)
     classes = data['classes']
     if(len(args) > 1):
@@ -46,7 +47,7 @@ async def rollclass(message):
 
 async def rollteam(message):
   args = message.content.split()
-  with open('ffxiv/classes.json') as json_file:
+  with open(common.MainPath+'ffxiv/classes.json') as json_file:
     data = json.load(json_file) 
     classes = data['classes']
 
