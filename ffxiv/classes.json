@@ -12,6 +12,10 @@
             {
                 "name":"White Mage",
                 "picture":"https://i.pinimg.com/564x/2b/9e/3a/2b9e3a1feac3d7909b1a09fd7a6e437a.jpg"
+            },
+            {
+                "name":"Sage",
+                "picture":"https://cdn-prod.scalefast.com/public/assets/img/resized/squareenix-store-v3/ef8782e98eabeb9d1d5a517efcd28103_KR_350.jpg"
             }
         ],
         "tank":[
@@ -37,6 +41,10 @@
             {
                 "name":"Dragoon",
                 "picture":"https://d3fa68hw0m2vcc.cloudfront.net/53f/231610526.jpeg"
+            },
+            {
+                "name":"Reaper",
+                "picture":"https://cdn-prod.scalefast.com/public/assets/img/resized/squareenix-store-v3/70919953c926c5d7398be0b114923f37_KR_350.jpg"
             },
             {
                 "name":"Monk",
