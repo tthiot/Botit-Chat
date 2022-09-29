@@ -19,6 +19,7 @@ async def on_ready():
 
 @client.event
 async def on_message(message):
+    print(f'Message from {message.author}: {message.content}')
     if message.content.startswith('$rollclass'):
       await ffxiv.rollclass(message)
     if message.content.startswith('$rollteam'):
